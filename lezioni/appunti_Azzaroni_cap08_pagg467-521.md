@@ -375,11 +375,98 @@ Percorsi tonali:
 
 ![](./contenuti/Azzaroni_es8_1b.png)
 
+Forma sonata in 3 parti:
+1. _Esposizione_: _opposizione
+    + 2 gruppi tematici
+        * primo il T/t
+        * secondo in tonalità vicina: carattere oppositivo rispetto al primo tema
+    + collegati da _ponte/transizione_: carattere modulante
+2. _Sviluppo_: _intensificazione_
+    + da cui _forma a sviluppo_
+    + a livello di:
+        * motivo, tema
+        * armonia
+        * melodia
+        * ritmo
+        * timbro
+        * dinamica
+        * agogica
+        * di registro
+        * …
+    + caratterestiche:
+        * svolte inattese
+        * voluta imprevedibilità
+    + percorso per il ritorno alla tonalità d'impianto
+    + funzioni formali:
+        * allontanarsi il più possibile dal materiale dell'_Esposizione_
+        * per il senso di compiutezza, di _riposo_
+3. _Ripresa_: _risoluzione_
+    + 2 gruppi tematici:
+        * entrambi in T/t
+    + _ponte_: non modulante
+    + funzioni formali:
+        * rimane sempre in T/t: vasta area di stabilità
+        * coda finale: usata per ri-bilanciare le dimensioni dello _Sviluppo_
+
+Duplicità dei gruppi tematici:
+- da cui _forma bi-tematica_
+- _Esposizione_:
+    + maggiore: T -> D
+    + minore: t -> tP/d
+- accoppiamento tra primo e secondo gruppo tematico:
+    + basata sull'_interruzione_/_discontinuità_
+        * più o meno improvviso
+        * contrapposizione del secondo gruppo tematico rispetto al primo
+        * momento di articolazione, evento, punto cardine della struttura
+- esempi particolari:
+    + Haydn, sonate: monotematiche
+        * no secondo gruppo tematico
+        * ripetizione del primo gruppo tematico, variata o no
+        * _discontinuità_ tonale introdotta dal percorso
+
+_Discontinuità, contrasto_:
+- primo tema:
+    + definisce la tonalità
+        * Settecento: uso delle 3 note della triade
+- secondo tema:
+    + tonalità già stabilità
+    + più libero, più espressivo
+- discontinuità per periodi storici:
+    + Barocco: T/t -> D
+        * movimento: verso la fine
+        * risoluzione: alla fine della sezione
+    + Settecento: _forma-sonata_
+        * movimento drammatico
+        * verso una pausa, cadenza, esplosione, nuovo tema…
+
 ### Rondò-Sonata `[slide 15, pag 481]`
+
+- tra _Rondò_ e _forma-sonata_: **A B A C A B A**
+    + Rondò: alternanza tra _refrain_ e _couplets_
+    + _forma-sonata_: 3 sezioni
+        * _Esposizione **A B A**: **A** primo gruppo tematico, **B** secondo gruppo tematico
+        * _Sviluppo **C**
+        * _Ripresa **A B A**
+- percorso tonale tipico:
+    + **A**: T/t
+    + **B**:
+        * maggiore: D
+        * minore: tP
+    + **A**: T/t
+    + **C**: tonalità più o meno vicina
+    + **A**: T/t
+    + **B**:
+        * T/t
+        * tonalità vicina: spesso S/s
+    + **A**: T/t
+- forma contratta: **A B A C B A**
 
 ---
 
 ### Fuga `[slide 15, pag 481]`
+
+- modello di _Fuga_:
+    + non rispecchia nessuna opera concretamente (come per la _forma-sonata_)
 
 ### Esposizione `[slide 16, pag 482]`
 
